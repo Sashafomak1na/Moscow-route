@@ -1,0 +1,11 @@
+.btn-guides {
+  color: rgb(182, 225, 151);
+  background-color: rgb(255, 255, 255); 
+  border-color: rgb(182, 225, 151); 
+}
+
+.btn-guides:hover {
+    color: rgb(255, 255, 255);
+  background-color: rgb(182, 225, 151); 
+  border-color: rgb(182, 225, 151); 
+}

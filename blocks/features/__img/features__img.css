@@ -1,0 +1,5 @@
+@media (max-width:767px) {
+  .features__img {
+    max-width: 65%;
+  }
+}

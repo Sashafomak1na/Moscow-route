@@ -1,0 +1,13 @@
+.table {
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    border: 2px solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 2%;
+    row-gap: 10px;
+    column-gap: 10px;
+}

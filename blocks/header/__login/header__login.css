@@ -1,0 +1,8 @@
+.header__login {
+    background-image: url('../../../images/icon__COLOR_icon-main.svg');
+    display: inline-block;
+    width: 20px;
+    height: 10px;
+    background-size: cover;
+    align-self: center;
+}

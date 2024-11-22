@@ -1,0 +1,9 @@
+.info {
+    background-image: url('../../images/москва.webp');
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #ffffff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}

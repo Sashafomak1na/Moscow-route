@@ -1,0 +1,12 @@
+@media (min-width: 576px) {
+    .input-group-find {
+        width: 25%;
+        min-width: 200px;
+    }
+}
+
+@media (max-width: 576px) {
+    .input-group-find {
+        width: 100%;
+    }
+}
